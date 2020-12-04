@@ -1,4 +1,4 @@
-invite_userid = ${{ secrets.INID }}
+invite_userid = 2803095
 
 import requests
 
